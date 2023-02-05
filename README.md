@@ -1,1 +1,2 @@
 # Indian-Census-Analysis-using-SQL
+An in-depth analysis of the Indian census data and provides valuable insights into population demographics, literacy rates, and growth patterns. The project covers a wide range of operations such as selecting data, counting rows, grouping and aggregating data, filtering data, creating and inserting data into tables, joining tables, and calculating sums and averages.
